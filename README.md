@@ -38,4 +38,18 @@ for i in range(1, 6):
         print(j, end=' ')
     print()
 ```
+### 2. Factory Pattern
+```python
+class Dog:
+    def speak(self):
+        return "Woof!"
+
+class Cat:
+    def speak(self):
+        return "Meow!"
+
+def get_pet(pet="dog"):
+    pets = dict(dog=Dog(), cat=Cat())
+    return pets[pet]
+```
 
