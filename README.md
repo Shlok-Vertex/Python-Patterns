@@ -8,6 +8,7 @@ A collection of common programming patterns implemented in Python. These pattern
 3. [Design Patterns](#design-patterns)
 4. [Algorithmic Patterns](#algorithmic-patterns)
 
+
 ## Star Patterns
 
 ### 1. Right-Angled Triangle
