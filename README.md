@@ -1,4 +1,4 @@
-# Python Patterns 🐍. 
+# Python Patterns 🐍.  
 
 A collection of common programming patterns implemented in Python. These patterns cover algorithmic, structural, and design pattern concepts.
 
